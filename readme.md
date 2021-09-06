@@ -1,0 +1,1 @@
+Projeto de calculadora em PHP feito em aula com o auxílio de um instrutor, com o intuito de utilizar e reforçar o aprendizado de PHP.
